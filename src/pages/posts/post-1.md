@@ -10,4 +10,4 @@ tags: ["blogging"]
 # はじめに
 初めてのポスト
 
-![写真](http://i.imgur.com/Jjwsc.jpg "サンプル")
+<img src="https://github.com/afer0093/afer0093.github.io/blob/master/public/images/DSC_4927.JPG?raw=true.jpg" width="50%">
