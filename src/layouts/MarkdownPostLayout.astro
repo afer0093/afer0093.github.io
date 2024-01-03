@@ -8,12 +8,12 @@ const { frontmatter } = Astro.props;
     <p>{frontmatter.pubDate.slice(0, 10)}</p>
 
     <p>Written by: {frontmatter.author}</p>
-
+    <p>Tags</p>
     <div class="tags">
         {
             frontmatter.tags.map((tag: any) => (
                 <p class="tag">
-                    Tags: <a href={`/tags/${tag}`}>{tag}</a>
+                    <a href={`/tags/${tag}`}>{tag}</a>
                 </p>
             ))
         }
@@ -31,5 +31,7 @@ const { frontmatter } = Astro.props;
         flex-wrap: wrap;
     }
 
-    
+    .tag {
+        margin: 0.25em;
+    }
 </style>
