@@ -10,4 +10,4 @@ tags: ["blogging", "photography"]
 # はじめに
 実際にこれを撮ったのは一月ではない。
 
-<img src="https://github.com/afer0093/afer0093.github.io/blob/master/public/images/DSC_4927.JPG?raw=true.jpg" width="70%">
+<img src="https://raw.githubusercontent.com/afer0093/photos/master/public/images/DSC_4927.JPG?token=GHSAT0AAAAAACMIYCZVB4PTG3YGYU7QMZCUZMZHT5A" width="70%">
