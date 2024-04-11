@@ -8,6 +8,7 @@ tags: ["blogging", "photography"]
 ---
 
 # はじめに
+---
 実際にこれを撮ったのは一月ではない。
 
 <img src="https://raw.githubusercontent.com/afer0093/photos/master/public/images/DSC_4927.JPG" width="70%">
